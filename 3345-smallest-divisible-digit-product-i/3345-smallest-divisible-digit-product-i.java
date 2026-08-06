@@ -16,7 +16,7 @@ class Solution {
                 n=temp;
                 if(max%t==0)
                 {
-                    return temp;
+                    return n;
                 }
                 else{
                 n=n+1;
