@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akash400528/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/Akash400528/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Akash400528/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -22,8 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akash400528/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/Akash400528/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akash400528/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Akash400528/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
