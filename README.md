@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Akash400528/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akash400528/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Akash400528/Leetcode/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash400528/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akash400528/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Akash400528/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Akash400528/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Union-Find
 |  |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akash400528/Leetcode/tree/master/0136-single-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Akash400528/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
