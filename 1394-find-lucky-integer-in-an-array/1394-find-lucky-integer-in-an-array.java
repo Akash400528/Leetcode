@@ -1,5 +1,6 @@
 
-import java.util.*;class Solution {
+import java.util.*;
+class Solution {
     public int findLucky(int[] arr) {
 
         Map<Integer, Integer> map = new HashMap<>();
