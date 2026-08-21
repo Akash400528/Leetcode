@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akash400528/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akash400528/Leetcode/tree/master/0283-move-zeroes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash400528/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Akash400528/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akash400528/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akash400528/Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Akash400528/Leetcode/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
