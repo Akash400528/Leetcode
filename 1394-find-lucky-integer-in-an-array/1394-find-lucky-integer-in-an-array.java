@@ -1,22 +1,11 @@
-
-import java.util.*;
 class Solution {
-    public int findLucky(int[] arr) {
+    public static int findLucky(int[] numbers) { 
+        int[] freq = new int[501]; 
 
-        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : numbers) freq[num]++; 
 
-        for (int num : arr) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+        for (int i = 500; i > 0; i--) if (i == freq[i]) return i;  
 
-        int max = -1;
-
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getKey().equals(entry.getValue())) {
-                max = Math.max(max, entry.getKey());
-            }
-        }
-
-        return max;
+        return -1;
     }
 }
