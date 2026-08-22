@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Akash400528/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash400528/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akash400528/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0724-find-pivot-index](https://github.com/Akash400528/Leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Akash400528/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash400528/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Akash400528/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
