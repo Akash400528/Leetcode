@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Akash400528/Leetcode/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/Akash400528/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akash400528/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Akash400528/Leetcode/tree/master/0189-rotate-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Akash400528/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Akash400528/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akash400528/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akash400528/Leetcode/tree/master/0283-move-zeroes) |
