@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akash400528/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash400528/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akash400528/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/Akash400528/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/Akash400528/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Akash400528/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akash400528/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash400528/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Akash400528/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Akash400528/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Akash400528/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Simulation
