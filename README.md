@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Akash400528/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Akash400528/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Akash400528/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/Akash400528/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Akash400528/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Akash400528/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Akash400528/Leetcode/tree/master/0771-jewels-and-stones) |
