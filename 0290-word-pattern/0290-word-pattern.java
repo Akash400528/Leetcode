@@ -15,7 +15,7 @@ class Solution {
             char ch = pattern.charAt(i);
             String word = words[i];
 
-            // pattern → word
+            
             if (map1.containsKey(ch)) {
                 if (!map1.get(ch).equals(word)) {
                     return false;
@@ -24,7 +24,7 @@ class Solution {
                 map1.put(ch, word);
             }
 
-            // word → pattern
+            
             if (map2.containsKey(word)) {
                 if (map2.get(word) != ch) {
                     return false;
