@@ -1,20 +1,19 @@
 class Solution {
     public int countSegments(String s) {
-
-        if (s.length() == 0) {
+        if(s.length()==0)
+        {
             return 0;
         }
-
-        String[] arr = s.split(" ");
-
-        int count = 0;
-
-        for (String word : arr) {
-            if (!word.equals("")) {
-                count++;
-            }
+        String[] arr=s.split(" ");
+      int c=0;
+      for(int i=0;i<arr.length;i++)
+      {
+        if(!arr[i].equals(""))
+        {
+            c++;
         }
-
-        return count;
+      }
+      return c;
+        
     }
 }
