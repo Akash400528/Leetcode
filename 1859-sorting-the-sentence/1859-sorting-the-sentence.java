@@ -11,19 +11,18 @@ class Solution {
                 a+=fre[k];
             }
             char m=fre[fre.length-1];
-            int h = Integer.parseInt(String.valueOf(m));
+            int h = (int)(m-'0');
             map.put(h,a);
            
         }
-        int n=1;
+       
         StringBuilder str=new StringBuilder();
-        for(int l=1;l<=s.length();l++)
+        for(int l=1;l<=arr.length;l++)
         {
-            if(map.containsKey(l))
-            {
+            
                 str.append(map.get(l));
                 str.append(" ");
-            }
+       
 
         }
         return new String(str).trim();}}
