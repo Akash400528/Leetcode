@@ -4,32 +4,30 @@ class Solution {
         {
             return 0;
         }
-        if(nums.length==1)
-        {
-        
-            return 1;
-        }
+      int c=1;
+      int max=0;
         Arrays.sort(nums);
-        int c=1;
-        int l=1;
         for(int i=1;i<nums.length;i++)
         {
+
             if(nums[i]==nums[i-1])
             {
                 continue;
             }
-            if(nums[i]==nums[i-1]+1)
+         if(nums[i]==nums[i-1]+1)
             {
                 c++;
-            }
-            else{
-                l=Math.max(l,c);
+              
+
+            }else{
+                max=Math.max(c,max);
                 c=1;
             }
-            l=Math.max(l,c);
-            
+
+
+
+
         }
-        return l;}}
-
-
-        
+        max=Math.max(max,c);
+        return max;}}
+       
