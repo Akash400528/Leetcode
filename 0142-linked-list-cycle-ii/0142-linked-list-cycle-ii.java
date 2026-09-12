@@ -27,13 +27,11 @@ public class Solution {
                 break;
             }        
         }
-        int i = 0;
          ListNode pos = head;
         if(flag)
         {
         while(pos!=slow)
         {
-            i++;
             pos=pos.next;
             slow=slow.next;
         }
