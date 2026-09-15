@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Akash400528/Leetcode/tree/master/0836-rectangle-overlap) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Akash400528/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash400528/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akash400528/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akash400528/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Akash400528/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Akash400528/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Akash400528/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash400528/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Akash400528/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akash400528/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Akash400528/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
