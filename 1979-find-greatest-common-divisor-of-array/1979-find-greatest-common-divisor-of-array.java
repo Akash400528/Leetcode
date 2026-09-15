@@ -1,17 +1,25 @@
 class Solution {
-    public int findGCD(int[] nums) {
-        Arrays.sort(nums);
-        int a=nums[0];
-        int b=nums[nums.length-1];
-        int n=0;
-        for(int i=1;i<=b;i++)
-        {
-            if(a%i==0&&b%i==0)
-            {
-                n=i;
-            }
+
+    public int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        return n;
-        
+
+        return a;
+    }
+
+    public int findGCD(int[] nums) {
+
+        int min = nums[0];
+        int max = nums[0];
+
+        for (int num : nums) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
+
+        return gcd(min, max);
     }
 }
