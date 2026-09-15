@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Akash400528/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash400528/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Akash400528/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akash400528/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akash400528/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Akash400528/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Akash400528/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash400528/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash400528/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Akash400528/Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akash400528/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Akash400528/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1859-sorting-the-sentence](https://github.com/Akash400528/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [3731-find-missing-elements](https://github.com/Akash400528/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
