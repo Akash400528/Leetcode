@@ -164,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Akash400528/Leetcode/tree/master/0796-rotate-string) |
 | [1859-sorting-the-sentence](https://github.com/Akash400528/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash400528/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akash400528/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akash400528/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
