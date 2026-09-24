@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash400528/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Akash400528/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akash400528/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash400528/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash400528/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akash400528/Leetcode/tree/master/3731-find-missing-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash400528/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash400528/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Akash400528/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akash400528/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash400528/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash400528/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash400528/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akash400528/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Akash400528/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash400528/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akash400528/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash400528/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akash400528/Leetcode/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Akash400528/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash400528/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Akash400528/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akash400528/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
