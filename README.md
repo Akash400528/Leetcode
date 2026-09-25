@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akash400528/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akash400528/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Akash400528/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Akash400528/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Akash400528/Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Akash400528/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash400528/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Akash400528/Leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akash400528/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akash400528/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Akash400528/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash400528/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
