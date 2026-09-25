@@ -12,9 +12,7 @@ class Solution {
      }
    }
    return 0;
-   }
-     
-        
+    }
     
     static int hlo(int l)
     {
