@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akash400528/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Akash400528/Leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash400528/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Akash400528/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Akash400528/Leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Akash400528/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Akash400528/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Akash400528/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Akash400528/Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akash400528/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akash400528/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akash400528/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Akash400528/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Akash400528/Leetcode/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akash400528/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
