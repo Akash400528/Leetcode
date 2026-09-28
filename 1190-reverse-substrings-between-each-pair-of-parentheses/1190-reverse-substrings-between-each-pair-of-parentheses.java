@@ -1,28 +1,38 @@
 class Solution {
     public String reverseParentheses(String s) {
-        int n = s.length();
-        int[] link = new int[n];
-        Stack<Integer> stk = new Stack<>();
 
-        for (int i = 0; i < n; i++) {
-            if (s.charAt(i) == '(')
-                stk.push(i);
-            else if (s.charAt(i) == ')') {
-                link[i] = stk.pop();
-                link[link[i]] = i;
+        Stack<Character> stack = new Stack<>();
+
+        for (char ch : s.toCharArray()) {
+
+            if (ch == ')') {
+
+                StringBuilder temp = new StringBuilder();
+
+                // Pop until '('
+                while (stack.peek() != '(') {
+                    temp.append(stack.pop());
+                }
+
+                // Remove '('
+                stack.pop();
+
+                // Put reversed string back
+                for (int i = 0; i < temp.length(); i++) {
+                    stack.push(temp.charAt(i));
+                }
+
+            } else {
+                stack.push(ch);
             }
         }
 
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0, dir = 1; i < n; i += dir) {
-            if (s.charAt(i) >= 'a')
-                sb.append(s.charAt(i));
-            else {
-                i = link[i];
-                dir = -dir;
-            }
+        StringBuilder ans = new StringBuilder();
+
+        while (!stack.isEmpty()) {
+            ans.append(stack.pop());
         }
-        
-        return sb.toString();
+
+        return ans.reverse().toString();
     }
 }
