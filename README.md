@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Akash400528/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Akash400528/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Akash400528/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Akash400528/Leetcode/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/Akash400528/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Akash400528/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Akash400528/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Akash400528/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Akash400528/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash400528/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Akash400528/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Akash400528/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Akash400528/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Akash400528/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Akash400528/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Akash400528/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Akash400528/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Akash400528/Leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Akash400528/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
